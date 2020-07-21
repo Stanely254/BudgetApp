@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference     android:title="@string/receiptQuality"
+        android:summary="@string/receiptQualitySummary"
+        android:key="@string/jpegQuality"
+        android:defaultValue="40"
+        android:entries="@array/jpegQualityArray"
+        android:entryValues="@array/jpegQualityArray" />
+
+</PreferenceScreen>

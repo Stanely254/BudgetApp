@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+        <item
+            android:id="@+id/action_intro"
+            android:title="@string/startIntro"
+            android:icon="@drawable/ic_card_travel_black_24dp"
+            app:showAsAction="never"/>
+
+    </group>
+
+    <group
+        android:id="@+id/action"
+        >
+        <item
+            android:id="@+id/action_import_export"
+            android:icon="@drawable/ic_import_export_white_24dp"
+            android:title="@string/importExport"
+            app:showAsAction="ifRoom"/>
+    </group>
+
+    <group android:id="@+id/action_2">
+        <item android:id="@+id/give_feedback"
+            android:title="@string/write_email"
+            android:icon="@drawable/ic_feedback_black_24dp"
+            />
+
+    </group>
+
+    <group
+        android:id="@+id/navigation_drawer_menu_category_other"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/action_about"
+            android:icon="@drawable/ic_help_white_24dp"
+            android:title="@string/action_about"
+            app:showAsAction="ifRoom|withText"
+            />
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_settings_white_24dp"
+            android:title="@string/action_settings"
+            app:showAsAction="ifRoom|withText"
+            />
+    </group>
+
+</menu>
