@@ -12,11 +12,6 @@ proposed changes.
 
 YouTube-https://youtu.be/ed4NgkhBOiI
 
-APK Download - 
-
-
-More Projects - https://projectworlds.in
-
 # Screenshots
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584126/9f3b6e3e-0125-11e7-8c0a-27d176dd0c00.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584126/9f3b6e3e-0125-11e7-8c0a-27d176dd0c00.png)
 [<img src="https://cloud.githubusercontent.com/assets/5264535/23584129/b21da058-0125-11e7-952a-3f8202fe70b4.png" width=250>](https://cloud.githubusercontent.com/assets/5264535/23584129/b21da058-0125-11e7-952a-3f8202fe70b4.png)
