@@ -8,6 +8,9 @@ You can then view how close your sending is to your budget.
 If there is any interest in improving this project, kindly submit a pull request with
 proposed changes.
 
+### Budget Watch App
+find the compiled app (https://github.com/Stanely/BudgetApp/debug/)
+
 ### Demo
 
 YouTube-https://youtu.be/ed4NgkhBOiI
