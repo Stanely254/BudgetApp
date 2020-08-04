@@ -42,4 +42,4 @@ by [naim](https://thenounproject.com/naim.solis/)
 - [Save](https://thenounproject.com/term/save/716011) by [Bernar Novalyi](https://thenounproject.com/bernar.novalyi)
 
 # Acknowledgements
-- [ProjectsWorld](https://projectworlds.in)
+- [ProjectWorld](https://projectworlds.in)
