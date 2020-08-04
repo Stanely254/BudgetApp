@@ -9,7 +9,7 @@ If there is any interest in improving this project, kindly submit a pull request
 proposed changes.
 
 ### Budget Watch App
-find the compiled app (https://github.com/Stanely/BudgetApp/debug/)
+find the compiled app (https://github.com/Stanely/BudgetApp/debug)
 
 ### Demo
 
